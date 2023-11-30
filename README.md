@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ruxpins
-- 👀 I’m interested in ... everything
+- 👀 I’m interested in ... MDM/EMM Dev
 - 🌱 I’m currently learning ... Azure DevOps
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Linkedin.com
+- 💞️ I’m looking to collaborate on anything. 
+- 📫 How to reach me ... Linkedin.com/in/cwill3
 
 <!---
 Ruxpins/Ruxpins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
